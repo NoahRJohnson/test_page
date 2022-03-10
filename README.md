@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Test Dataset
 
-You can use the [editor on GitHub](https://github.com/NoahRJohnson/test_page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Test Dataset contains something or other.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![this is an overview image](/img/logo_small.png)
 
-### Markdown
+### Download Instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download using [this link.](https://lmgtfy.app/?q=todo)
 
-```markdown
-Syntax highlighted code block
+### Data Format
 
-# Header 1
-## Header 2
-### Header 3
+The data has the following structure.
 
-- Bulleted
-- List
+### Licenses
 
-1. Numbered
-2. List
+Data is licensed under XXX.
 
-**Bold** and _Italic_ and `Code` text
+Data is made available as-is, etc.
 
-[Link](url) and ![Image](src)
-```
+### Acknowledgements
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoahRJohnson/test_page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This work was done with the support of XXX.
